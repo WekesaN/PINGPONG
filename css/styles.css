@@ -4,3 +4,10 @@
 #items {
   display: none;
 }
+.header {
+  text-align: center;
+}
+#left {
+  background-color: green;
+  height: 550px;
+}
