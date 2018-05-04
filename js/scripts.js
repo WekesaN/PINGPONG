@@ -1,5 +1,6 @@
 var number;
 function display (){
+        $('.number').text('');
   for (var i = 1; i <= number; i++){
   	console.log(i)
     if ((i % 3 == 0) && (i % 5 == 0)) {

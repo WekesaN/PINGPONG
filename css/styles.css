@@ -6,8 +6,28 @@
 }
 .header {
   text-align: center;
+  color: green;
 }
 #left {
   background-color: green;
-  height: 550px;
+  height: 100vh;
+  font-family: cursive;
+}
+#left:hover{
+  color: #7fffd4;
+}
+#jumbo {
+  background-color: #7fffd4;
+}
+.label {
+  text-decoration: underline;
+  color: #7fffd4
+}
+.form #btn:hover{
+  color: blue;
+  text-decoration: underline;
+  cursor: progress;
+}
+.submit {
+  cursor: progress;
 }
