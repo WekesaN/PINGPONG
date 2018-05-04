@@ -18,18 +18,7 @@ function display (){
     }
   };
   }
-  //https://github.com/WekesaN/PINGPONG.git
-  // display();
-  // alert(results);
-  // $(document).ready(function(){
-  //   $("form").submit(function(event){
-  //     event.preventDefault()
-  //     var number = parseInt($("input#number").val());
-  //
-  //     var results = btn(number)
-  //     $("results").show()
-  //   })
-  // })
+
   // user interface logic
 $(document).ready(function(){
 $("form").submit(function(event){

@@ -31,3 +31,6 @@
 .submit {
   cursor: progress;
 }
+#left P {
+  text-decoration: overline;
+}
