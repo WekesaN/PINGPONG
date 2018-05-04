@@ -1,5 +1,5 @@
 //Business logic
-var number;
+var Number;
 function display (){
         $('.number').text('');
   for (var i = 1; i <= number; i++){
@@ -24,7 +24,6 @@ $(document).ready(function(){
 $("form").submit(function(event){
 number = $("input#number").val();
 display();
-
 event.preventDefault();
 });
 
