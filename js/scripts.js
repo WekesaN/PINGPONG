@@ -1,3 +1,4 @@
+//Business logic
 var number;
 function display (){
         $('.number').text('');
