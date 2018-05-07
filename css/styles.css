@@ -1,3 +1,6 @@
+body {
+  background-image: url(../css/img/bg.jpeg);
+}
 #btn {
   color: red;
 }
@@ -30,7 +33,7 @@
   color: #7fffd4;
 }
 #bg {
-  color: pink;
+  color: green;
 }
 .parallax {
      /* The image used */
