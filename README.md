@@ -14,6 +14,20 @@ All that one need is a browser to run the game
 ```
 Most prevered browser is chrome 
 ```
+### Prerequisites
+The following are specst that were implimented in the project develpment 
+Pingpong checks whether a number is divisible by 3 and replaces it with ping and then validates the input to its respective name as stated below:
+
+Input Example: ...3 Output Example: ..."ping"
+
+And whether a number is divisible by 5 and replaces it with pong.
+
+Input Example: ...5 Output Example: ..."pong"
+
+And whether a number is divisible by 15 and replaces it with pingpong.
+
+Input Example: ...45 Output Example: ..."pingpong"
+When it comes to the numbers that are not divisible by the listed numbers above the output is printed corresponding the input 
 ## Deployment
 
 To play the game just use this link : 
