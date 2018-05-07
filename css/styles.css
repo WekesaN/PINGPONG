@@ -45,7 +45,7 @@
      background-size: cover;
      background-position: center;
 }
-.form #btn:hover{
+#btn:hover{
   color: blue;
   text-decoration: underline;
   cursor: progress;
@@ -58,4 +58,11 @@
 }
 #output {
   background-image: url();
+}
+#number {
+  background-color: pink;
+}
+#number:hover {
+  cursor: progress;
+  color: blue;
 }
